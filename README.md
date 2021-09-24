@@ -7,8 +7,8 @@ It was built using many OOP principles which allow for easy-to-adjust changes in
 
 ![image](https://user-images.githubusercontent.com/91034418/134730326-4b57f65e-e9b2-4c0c-bb72-4fe5fd573a16.png)
 
-![image](https://user-images.githubusercontent.com/91034418/134730386-90e84a98-164f-446e-aa4b-4a3dca711575.png)
+![image](https://user-images.githubusercontent.com/91034418/134730665-21426a79-1d9c-4ed0-9d7f-d22c4744af2b.png)
 
-![image](https://user-images.githubusercontent.com/91034418/134730424-c90a224f-8f58-4787-804f-9b1f4a09b8cc.png)
+![image](https://user-images.githubusercontent.com/91034418/134730712-dbb3472b-a74a-44a8-859e-52f5350f9f80.png)
 
-![image](https://user-images.githubusercontent.com/91034418/134730551-e9af0bac-9e21-49fb-9dd5-44eee41f8279.png)
+![image](https://user-images.githubusercontent.com/91034418/134730619-6e0d77e3-3e41-45af-a8a5-971400c67560.png)
